@@ -1,0 +1,10 @@
+* {margin: 0;	padding: 0;	box-sizing: border-box;	}
+body { background-image: url(background.png) }
+.box { border: 5px solid yellow; background-color: lightyellow;
+		magrin-top: 5px;
+		margin-right: 75px; 
+		margin-left: 75px; 
+		margin-bottom: 75px;
+		padding: 37.5px; }
+
+		
